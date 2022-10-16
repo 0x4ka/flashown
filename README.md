@@ -29,7 +29,8 @@ However, as long as it is established as a common method in DeFi, those who impl
 
 The proposal in this hackathon is intended to propose a behavior that should be looked at once and generate discussion at this stage when the NFT market is moving into the next area of finance.
 
-### Demonstration.
+### Demonstration
+[frontend - demo](https://www.figma.com/proto/s0Lzwc63PzHShoCKqajOkE/Untitled?page-id=0%3A1&node-id=1%3A217&viewport=-1244%2C362%2C0.31&scaling=scale-down&starting-point-node-id=1%3A2)
 
 **How it works** (very simple in itself)
 
@@ -37,10 +38,19 @@ The proposal in this hackathon is intended to propose a behavior that should be 
 2. User sends it to a smart contract
 3. User performs any transaction and returns it to the pool.
 
-**Example**.
+**Example**
 
 1. take out a loan with CryptoKitties.
 2. use the loan to breed the kitties you own.
 3. return the borrowed kitty.
-4. lay eggs from the kitty. 5.
+4. lay eggs from the kitty.
 5. sell the CryptoKitties.
+
+
+### TEAM
+[@hideyukiaka](https://twitter.com/hideyukiaka)
+[@kazuma7o7](https://twitter.com/kazuma7o7)
+[@@okinawa__noodle](https://twitter.com/okinawa__noodle)
+
+### SPECIAL THANKS
+[@0xikkun](https://twitter.com/0xikkun)
