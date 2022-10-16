@@ -1,9 +1,10 @@
-![サンマの塩焼き](/img/flashown.png) 
+![Flashloan](/img/flashown.png) 
 
 ### **tl;dr**
 
 Receive and return NFTs within 1Tx, and in the process perform arbitrage by manipulating Breed and NFT AMM liquidity pools by owning NFTs for a moment by executing any process specified by the user.
 
+</br>
 ### Flash Loans
 
 A flash loan is a transaction technique that borrows an asset without collateral, which is originally required when borrowing an asset, and completes the processing and repayment of the debt within the transaction, and is often used in the DeFi protocol.
@@ -12,15 +13,17 @@ The core concept of Flash Loan is to complete the debt within 1Tx, which is a un
 
 In other words, flash loans are effective for NFTs traded on Blockchain, and could be a topic of interest in the coming NFT market, where Peer to Pool transactions are being explored.
 
-### Unsecured Loan Methodology and Issues
+</br>
+### Non-Collateral Loan Methodology and Issues
 
-- Support by Contract Wallet
+- **Support by Contract Wallet**
     - Requires support for specific wallets such as Wallet Connect and Argent
-- Wrap solution
+- **Wrap solution**
     - Requires technical support on the part of project founders as the contract address changes
-- New standards for rentals such as ERC-4907
+- **New standards for rentals such as ERC-4907**
     - Existing non-upgradable contracts cannot be supported, and technical support is still required for ERC-4907, including the adoption of a new role "User" by project founders.
 
+</br>
 ### Flash loans as traditional unsecured loans
 
 Flash loans, by their nature, can only be used for instantaneous transactions, but if one considers that they can be used for arbitrage by enhancing instantaneous game items or manipulating the NFT's liquidity pool, one can see sufficient economic benefit in their use.
@@ -31,6 +34,7 @@ However, as long as it is established as a common method in DeFi, those who impl
 
 The proposal in this hackathon is intended to propose a behavior that should be looked at once and generate discussion at this stage when the NFT market is moving into the next area of finance.
 
+</br>
 ### Demonstration
 [website - demo](https://www.figma.com/proto/s0Lzwc63PzHShoCKqajOkE/Untitled?page-id=0%3A1&node-id=1%3A2&viewport=-1244%2C362%2C0.31&scaling=scale-down&starting-point-node-id=1%3A2)
 
@@ -48,11 +52,11 @@ The proposal in this hackathon is intended to propose a behavior that should be 
 4. lay eggs from the kitty.
 5. sell the CryptoKitties.
 
-
+</br>
 ### TEAM
 [@hideyukiaka](https://twitter.com/hideyukiaka)
 [@kazuma7o7](https://twitter.com/kazuma7o7)
 [@@okinawa__noodle](https://twitter.com/okinawa__noodle)
 
-### SPECIAL THANKS
+**SPECIAL THANKS**
 [@0xikkun](https://twitter.com/0xikkun)
