@@ -52,11 +52,14 @@ The proposal in this hackathon is intended to propose a behavior that should be 
 4. lay eggs from the kitty.
 5. sell the CryptoKitties.
 
+More about
+https://www.notion.so/synschismo/Flashown-d1f3ee4dc0324b3b8ae851ceae1c83af
+
 </br>
 ### TEAM
 [@hideyukiaka](https://twitter.com/hideyukiaka)
 [@kazuma7o7](https://twitter.com/kazuma7o7)
-[@@okinawa__noodle](https://twitter.com/okinawa__noodle)
+[@okinawa__noodle](https://twitter.com/okinawa__noodle)
 
 **SPECIAL THANKS**
 [@0xikkun](https://twitter.com/0xikkun)
